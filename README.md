@@ -1,13 +1,4 @@
-**Habib Khan**, Statistician at the United Nations.
-
-I'm interested in:
-- Statistical analyses;
-- Modelling;
-- Big Data analytics;
-- Machine learning;
-- Web scrapping;
-- Data visualization;
-- Natural Language Processing
+**Habib Khan**, Data scientist/Statistician with 12 years of experience. Skilled in Python, R, Spark, Azure Databricks, Tableau, Plotly; experienced in household survey data analyses, machine learning, web scrapping, natural language processing, trade data analyses.
 
 You can reach me at <habibkhalid013@gmail.com>
 <!---
