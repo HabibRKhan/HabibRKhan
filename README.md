@@ -1,4 +1,4 @@
-**Habib Khan**, Data scientist/Statistician with 12 years of experience. Skilled in Python, R, Spark, Azure Databricks, Tableau, Plotly; experienced in household survey data analyses, machine learning, web scrapping, natural language processing, trade data analyses.
+**Habib Khan**, Data scientist/Statistician with 12 years of experience. Skilled in Python, R, PySpark, Azure Databricks, Plotly, PowerBI; experienced in household survey data analyses, machine learning, web scrapping, natural language processing, trade data analyses.
 
 You can reach me at <habibkhalid013@gmail.com>
 <!---
